@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -104,4 +103,3 @@ st.subheader('Made by :')
 contact_info = """ https://www.linkedin.com/in/ajish-kurian-daniel/ """
 
 st.markdown(contact_info)
->>>>>>> 84d615a5631c4598c914b9f7f7a761daa1b8f6bd
