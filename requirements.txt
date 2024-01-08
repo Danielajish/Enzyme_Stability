@@ -1,0 +1,6 @@
+pandas == 1.4.4
+streamlit == 1.27.1
+scikit-learn == 1.0.2
+biopython == 1.81
+numpy == 1.21.5
+
