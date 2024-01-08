@@ -44,8 +44,9 @@ if st.button('Predict'):
     st.subheader(f'The thermostability of the Enzyme at pH : {np.round(pH,2)} is : {np.round(pred,2)}')
 
     
-    
-st.subheader('Made by :')
-
 contact_info = """ https://www.linkedin.com/in/ajish-kurian-daniel/ """
+
+st.subheader('Made by : contact_info ')
+
+
 
