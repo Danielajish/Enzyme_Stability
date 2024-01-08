@@ -46,7 +46,7 @@ if st.button('Predict'):
     
 contact_info = """ https://www.linkedin.com/in/ajish-kurian-daniel/ """
 
-st.subheader('Made by : contact_info ')
+st.subheader('Made by : """ https://www.linkedin.com/in/ajish-kurian-daniel/ """')
 
 
 
